@@ -1,4 +1,6 @@
-# MonstersRolodex
+# Monsters Rolodex
+
+This project is a simple React project in which functional components are used to create a searching and filtering system for what represents something like a contact list in the form of a monsters catalogue. It uses a website called robohash to fetch the contacts and populates with images, names and emails. There is some css added for styling paired with html & jsx to create a contact list simulation to be deployed.
 
 # Getting Started with Create React App
 
